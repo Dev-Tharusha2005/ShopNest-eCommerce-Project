@@ -7,7 +7,7 @@ Supports customer shopping features and admin product management.
 
 ## 📦 Project Assets
 Due to file size limitations, the complete project package is stored on Google Drive:  
-[📥 Download Inventory Management System](https://drive.google.com/file/d/1qli4-g5bzZV67VT17rnaUVAZBo_buaD7/view?usp=sharing)
+[📥 Download ShopNest eCommerce Project](https://drive.google.com/file/d/1qli4-g5bzZV67VT17rnaUVAZBo_buaD7/view?usp=sharing)
 
 ---
 
